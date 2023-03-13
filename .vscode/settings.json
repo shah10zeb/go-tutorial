@@ -1,0 +1,17 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true,
+    "emmet.preferences": {},
+    "emmet.syntaxProfiles":{
+        "template":"html"
+    },
+    "emmet.includeLanguages": { "javascript": "html", "templating":"html","template":"html", "*":"html" },
+    "files.associations": {
+        "html": "html",
+        "templates": "html",
+        "*.temp": "html",
+        "templateExtensions": "html",
+        "templating":"html",
+        "template":"html"
+    }
+} 
